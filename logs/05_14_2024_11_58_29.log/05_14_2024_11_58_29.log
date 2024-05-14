@@ -1,0 +1,8 @@
+[ 2024-05-14 11:58:29,277 ] 15 root - INFO - loading model and scaling object 
+[ 2024-05-14 11:58:30,065 ] 67 root - INFO - converting user input to dataframe
+[ 2024-05-14 11:59:00,442 ] 26 root - INFO - converting string to date 
+[ 2024-05-14 11:59:00,444 ] 39 root - INFO - converting seasons to dataframe
+[ 2024-05-14 11:59:00,445 ] 52 root - INFO - converting day to df
+[ 2024-05-14 11:59:00,446 ] 9 root - INFO - prediction has started
+[ 2024-05-14 11:59:00,446 ] 15 root - INFO - loading model and scaling object 
+[ 2024-05-14 11:59:00,505 ] 17 root - INFO - Number of bikes required [217.89037]
