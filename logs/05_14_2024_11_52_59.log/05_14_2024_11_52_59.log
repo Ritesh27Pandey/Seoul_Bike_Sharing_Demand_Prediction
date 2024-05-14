@@ -1,0 +1,7 @@
+[ 2024-05-14 11:52:59,457 ] 15 root - INFO - loading model and scaling object 
+[ 2024-05-14 11:53:01,804 ] 67 root - INFO - converting user input to dataframe
+[ 2024-05-14 11:53:55,874 ] 26 root - INFO - converting string to date 
+[ 2024-05-14 11:53:55,914 ] 39 root - INFO - converting seasons to dataframe
+[ 2024-05-14 11:53:55,924 ] 52 root - INFO - converting day to df
+[ 2024-05-14 11:53:55,929 ] 9 root - INFO - prediction has started
+[ 2024-05-14 11:53:55,929 ] 15 root - INFO - loading model and scaling object 
